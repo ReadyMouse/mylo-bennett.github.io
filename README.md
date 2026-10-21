@@ -1,6 +1,7 @@
 # mylo-bennett.github.io
 
-Personal website for Mylo Bennett, built with Jekyll and served by GitHub Pages.
+Personal website for Mylo Bennett, built with Jekyll and served by GitHub Pages
+at https://readymouse.github.io/mylo-bennett.github.io/.
 
 Right now the site is a placeholder: the homepage redirects to
 [linkedin.com/in/mylo-mbennett](https://www.linkedin.com/in/mylo-mbennett/).
@@ -27,5 +28,6 @@ title: Mylo Bennett
 ---
 ```
 
-The `minima` theme is already configured, so layouts such as `home`, `page`,
-and `post` are available without adding any files.
+No theme is configured yet. Add one by setting `theme: minima` (or another
+GitHub Pages supported theme) in `_config.yml`, or write your own layouts under
+`_layouts/`.
