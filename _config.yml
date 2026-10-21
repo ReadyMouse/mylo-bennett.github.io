@@ -1,0 +1,14 @@
+title: Mylo Bennett
+description: Personal website of Mylo Bennett
+url: https://mylo-bennett.github.io
+baseurl: ""
+
+# Where the placeholder homepage sends visitors.
+linkedin: https://www.linkedin.com/in/mylo-mbennett/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
