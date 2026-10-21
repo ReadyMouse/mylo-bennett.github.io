@@ -1,8 +1,7 @@
 title: Mylo Bennett
 description: Personal website of Mylo Bennett
-# The repo is owned by ReadyMouse, so Pages serves it as a project site.
-url: https://readymouse.github.io
-baseurl: "/mylo-bennett.github.io"
+url: https://mylo-bennett.com
+baseurl: ""
 
 # Where the placeholder homepage sends visitors.
 linkedin: https://www.linkedin.com/in/mylo-mbennett/

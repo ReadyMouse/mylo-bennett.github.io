@@ -1,7 +1,7 @@
 # mylo-bennett.github.io
 
 Personal website for Mylo Bennett, built with Jekyll and served by GitHub Pages
-at https://readymouse.github.io/mylo-bennett.github.io/.
+at https://mylo-bennett.com (custom domain set via the `CNAME` file).
 
 Right now the site is a placeholder: the homepage redirects to
 [linkedin.com/in/mylo-mbennett](https://www.linkedin.com/in/mylo-mbennett/).
